@@ -18,3 +18,5 @@ cat hostname
 cd /usr/share/nginx/html
 # Далее index.html в директории был заменен на index.html из данного Github репозитория
 ```
+
+![Скриншот работающего сайта](https://user-images.githubusercontent.com/46153650/133925531-a6ad6fe8-ad99-40c8-bb6b-3367804bc373.png)
